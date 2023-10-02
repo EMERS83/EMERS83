@@ -9,5 +9,5 @@ EMERS83/EMERS83 is a ✨ special ✨ repository because its `README.md` (this fi
 You can click the Preview link to take a look at your changes.
 --->
 Estou interessado em aprender
-Por enquanto estou na introdução e depois de aprender 
-poder colaborar em vários projedtos.
+Por enquanto estou na introdução e depois de aprender,
+poder colaborar em vários projetos.
